@@ -25,7 +25,7 @@ This project focuses on analyzing the Online Retail dataset to generate business
 ▪️Removed duplicates from the dataset.
 ▪️Handled missing values:
 ▪️Dropped rows with missing CustomerID.
-▪️Replaced missing Description with "N/A".
+▪️Replaced missing values.
 ▪️Added calculated column:
     Revenue = Quantity × Unit Price.
 ▪️Exported cleaned dataset to Excel for Power BI integration.
