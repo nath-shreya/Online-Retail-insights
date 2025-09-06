@@ -49,3 +49,4 @@ The Power BI dashboard includes:
 ▪️Which regions show the greatest product demand (excluding UK)?
 
 ⬛Screenshot:
+[Dashboard preview] (https://github.com/nath-shreya/Online-Retail-insights/blob/main/Screenshot%202025-09-06%20193507.png)
